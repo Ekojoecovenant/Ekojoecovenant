@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spotify Sign In Clone<br>🌱 I’m currently learning JavaScript
+🔭 I’m currently working on a Movie Database (Just for Movie Details)<br>🌱 I’m currently learning JavaScript
 
 
 ## 🌐 Socials:
