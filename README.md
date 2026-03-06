@@ -1,5 +1,21 @@
+# Hi 👋, I'm ℭ𝔬𝔳𝔢
+
+### A passionate backend developer from Nigeria
+
+![](https://komarev.com/ghpvc/?username=Ekojoecovenant&label=Profile%20views&color=0e75b6&style=flat)
+
 # 💫 About Me:
-🔭 I’m currently working on postgres-based ORM<br>👯 I’m looking to collaborate on backend development with NestJs, Typescript and ExpressJs<br>🤝 I’m looking for help with tech advice<br>🌱 I’m currently learning Rust<br>💬 Ask me about backend<br>⚡ Fun fact: I'm self taught
+- 🔭 I'm currently working on **a TypeScript postgres-based ORM**
+
+- 🌱 I'm currently learning **Rust and C**
+
+- 👯 I'm looking to collaborate on **open source projects**
+
+- 🤝 I'm looking for help with **learning system design and robotics**
+
+- 💬 Ask me about **NestJs, ExpressJs and Backend development**
+
+- ⚡ Fun fact **I love programming because it's fun**
 
 
 ## 🌐 Socials:
@@ -13,19 +29,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekojoecovenant&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ekojoecovenant&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://trophygh.kolioaris.xyz/?username=ekojoecovenant&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ekojoecovenant&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ekojoecovenant&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ekojoecovenant) 
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
