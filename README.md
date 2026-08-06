@@ -49,7 +49,9 @@ NestJS, backend architecture, job scheduling, REST API design
 ## GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ekojoecovenant&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Ekojoecovenant&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ekojoecovenant&langs_count=7&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Ekojoecovenant&langs_count=7&theme=dark)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ekojoecovenant&langs_count=7&theme=dark)](https://wakatime.com/@ekojoecovenant)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ekojoecovenant&theme=dark&hide_border=false)
