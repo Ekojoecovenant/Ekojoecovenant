@@ -54,4 +54,4 @@ NestJS, backend architecture, job scheduling, REST API design
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ekojoecovenant&langs_count=7&theme=dark)](https://wakatime.com/@ekojoecovenant)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ekojoecovenant&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=ekojoecovenant&theme=dark&hide_border=false) 
